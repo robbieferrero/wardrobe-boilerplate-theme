@@ -3,6 +3,6 @@
 @section('content')
 
   <section class="about">
-    <p>Javascript developer in Portland, OR</p>
+    <p></p>
   </section>
 @stop

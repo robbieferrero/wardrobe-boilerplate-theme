@@ -16,7 +16,7 @@
   <section class="comments">
     <div id="disqus_thread"></div>
     <script type="text/javascript">
-        var disqus_shortname = 'robbieferrero'; 
+        var disqus_shortname = ''; 
 
         (function() {
             var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
